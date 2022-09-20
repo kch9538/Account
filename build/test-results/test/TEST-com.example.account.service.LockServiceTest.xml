@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.example.account.service.LockServiceTest" tests="2" skipped="0" failures="0" errors="0" timestamp="2022-09-20T21:24:13" hostname="Samui-MacBookPro.local" time="0.128">
+  <properties/>
+  <testcase name="failGetLock()" classname="com.example.account.service.LockServiceTest" time="0.125"/>
+  <testcase name="successGetLock()" classname="com.example.account.service.LockServiceTest" time="0.003"/>
+  <system-out><![CDATA[2022-09-21 06:24:13.898 ERROR 2458 --- [    Test worker] com.example.account.service.LockService  : ======Lock acquisition failed=====
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
